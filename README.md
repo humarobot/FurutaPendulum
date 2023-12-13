@@ -1,6 +1,6 @@
 # FurutaPendulum
 
-旋转倒立拜
+旋转倒立摆
 
 视频在这https://www.bilibili.com/video/BV1Wh411U76g/
 
