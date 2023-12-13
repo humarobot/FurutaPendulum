@@ -1,6 +1,6 @@
 # FurutaPendulum
 
-人生第一个还算看的过去的开源项目
+旋转倒立拜
 
 视频在这https://www.bilibili.com/video/BV1Wh411U76g/
 
